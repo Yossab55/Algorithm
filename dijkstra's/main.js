@@ -41,7 +41,7 @@ function dijkstra() {
     // break;
   }
   console.log(parent)
-  console.log(cost)
+  console.log(costx)
 }
 function findLowestCostNode() {
   let costs = Object.keys(cost);
